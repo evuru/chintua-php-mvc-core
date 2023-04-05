@@ -1,0 +1,10 @@
+{
+    "name": "evuru/chintua-php-mvc-core",
+    "authors": [
+        {
+            "name": "evuru",
+            "email": "evurustanle@gmail.com"
+        }
+    ],
+    "require": {}
+}
