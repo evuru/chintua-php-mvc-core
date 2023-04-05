@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\db;
+namespace evuru\chintuaphpmvc\db;
 
 
 use Cassandra\Date;

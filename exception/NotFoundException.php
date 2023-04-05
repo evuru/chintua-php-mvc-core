@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace evuru\chintuaphpmvc\exception;
 
 
 class NotFoundException extends \Exception{

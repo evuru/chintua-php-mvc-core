@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace evuru\chintuaphpmvc;
 class Router
 {
     public Request $request;
@@ -41,7 +41,7 @@ class Router
         }
 
         if (is_array($callback)) {
-            /** @var \app\core\Controller $controller */
+            /** @var \evuru\chintuaphpmvc\Controller $controller */
             $callback[0] = new $callback[0]();
             Application::$app->action = $callback[1];
             $controller = $callback[0];

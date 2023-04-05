@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace evuru\chintuaphpmvc;
 
-use app\core\db\Database;
-use app\core\db\DatabaseModel;
+use evuru\chintuaphpmvc\db\Database;
+use evuru\chintuaphpmvc\db\DatabaseModel;
 
 class Application{
     public static string $ROOT_DIR;

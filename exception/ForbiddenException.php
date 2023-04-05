@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace evuru\chintuaphpmvc\exception;
 
 
 class ForbiddenException extends \Exception{

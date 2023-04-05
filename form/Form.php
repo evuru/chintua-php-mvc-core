@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace evuru\chintuaphpmvc\form;
 
 
-use app\core\Model;
+use evuru\chintuaphpmvc\Model;
 
 class Form{
     public static function begin($action,$method){

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace evuru\chintuaphpmvc;
 
 
-use app\core\middleWares\BaseMiddleWare;
+use evuru\chintuaphpmvc\middleWares\BaseMiddleWare;
 
 class Controller{
     protected array $middlewares = [];

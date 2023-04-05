@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace evuru\chintuaphpmvc\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use evuru\chintuaphpmvc\Application;
+use evuru\chintuaphpmvc\Model;
 
 abstract class DatabaseModel extends Model {
     public static  $db;

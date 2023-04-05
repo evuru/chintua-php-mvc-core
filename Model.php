@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace evuru\chintuaphpmvc;
 
 
 abstract class Model{

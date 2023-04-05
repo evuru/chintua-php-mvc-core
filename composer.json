@@ -6,5 +6,10 @@
             "email": "evurustanle@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "evuru\\chintuaphpmvc\\": "./"
+        }
+    }
 }

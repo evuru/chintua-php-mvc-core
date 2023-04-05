@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\middleWares;
+namespace evuru\chintuaphpmvc\middleWares;
 
 
 abstract class BaseMiddleWare{

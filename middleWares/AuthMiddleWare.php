@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\middleWares;
+namespace evuru\chintuaphpmvc\middleWares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use evuru\chintuaphpmvc\Application;
+use evuru\chintuaphpmvc\exception\ForbiddenException;
 
 
 class AuthMiddleWare extends BaseMiddleWare {
